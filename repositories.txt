@@ -1,3 +1,12 @@
+https://github.com/DIYables/DIYables-LED-Matrix
+https://github.com/dashio-connect/arduin-dashio-utils
+https://github.com/dashio-connect/arduino-dashioNano33BLE
+https://github.com/dashio-connect/arduino-dashioMKR1500
+https://github.com/dashio-connect/arduino-dashioESP
+https://github.com/dashio-connect/arduino-dashioBluno
+https://github.com/dashio-connect/arduino-dashioBluefruit
+https://github.com/dashio-connect/arduino-dashioSAMD_NINA
+https://github.com/rszczepanski93/EduBox_ArduinoLibrary
 https://github.com/MIT-Senseable-City-Lab/octopus-firmware
 https://github.com/Valdemir-DSW/DSW-painel-arduino-lib
 https://github.com/elecrazy/servoctr.git
@@ -7362,3 +7371,5 @@ https://github.com/thomasgeissl/ESP-NOW-MIDI
 https://github.com/adbancroft/avr-fast-map
 https://github.com/soynaldo/Labvee
 https://github.com/JensDMadsen/Multitasker
+https://github.com/piscodev/r4httpclient
+https://github.com/arastaskiran/RustyVoltmeter
