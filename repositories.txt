@@ -2211,16 +2211,12 @@ https://github.com/ESDeveloperBR/ES32Lab
 https://github.com/ESDeveloperBR/TFT_eSPI_ES32Lab
 https://github.com/ESDeveloperBR/TimeInterval
 https://github.com/ESikich/RGBLEDBlender
-https://github.com/espressif/esp-ui
+https://github.com/espressif/esp-brookesia
 https://github.com/esp-arduino-libs/ESP32_Button
 https://github.com/esp-arduino-libs/ESP32_Display_Panel
 https://github.com/esp-arduino-libs/ESP32_IO_Expander
 https://github.com/esp-arduino-libs/ESP32_Knob
 https://github.com/esp-arduino-libs/ESP32_USB_Stream
-https://github.com/esp-arduino-libs/esp-ui-phone_320_240_stylesheet
-https://github.com/esp-arduino-libs/esp-ui-phone_480_480_stylesheet
-https://github.com/esp-arduino-libs/esp-ui-phone_800_480_stylesheet
-https://github.com/esp-arduino-libs/esp-ui-phone_1024_600_stylesheet
 https://github.com/ethanhjennings/MQTTSerialPrinter
 https://github.com/ethanjli/linear-position-control
 https://github.com/ethanjli/liquid-handling-robotics
@@ -5414,6 +5410,7 @@ https://github.com/RobTillaart/Troolean
 https://github.com/RobTillaart/TSL235R
 https://github.com/RobTillaart/TSL260R
 https://github.com/RobTillaart/UUID
+https://github.com/RobTillaart/Vibration
 https://github.com/RobTillaart/VolumeConverter
 https://github.com/RobTillaart/WaterMix
 https://github.com/RobTillaart/WaveMix
@@ -7374,3 +7371,4 @@ https://github.com/soynaldo/Labvee
 https://github.com/JensDMadsen/Multitasker
 https://github.com/piscodev/r4httpclient
 https://github.com/arastaskiran/RustyVoltmeter
+https://github.com/OpenBuilds/OpenBuildsBLOX
